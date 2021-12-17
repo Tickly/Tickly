@@ -7,8 +7,8 @@
 
 # Vue-Component
 
-- [erpack](https://github.com/Tickly/erpack) 基于`ant-design-vue`的二次封装，方便解决一些常见需求。
-- [tg-validators](https://github.com/Tickly/tg-validators) 通用表单验证.
+- 👀 [erpack](https://github.com/Tickly/erpack) 基于`ant-design-vue`的二次封装，方便解决一些常见需求。
+- [tg-validators](https://github.com/Tickly/tg-validators) 通用表单验证。
 - [stroke-text](https://github.com/Tickly/stroke-text) 多重文字描边组件。
 - [tg-aspect-ratio](https://github.com/Tickly/tg-aspect-ratio) 一个快速设置宽高比例的容器组件。
 - [tg-formatter](https://github.com/Tickly/tg-formatter) 集合几个热门库，统一导出数据封装的方法。
@@ -22,6 +22,10 @@
 # Vue-Cli-Plugin
 
 - [vue-cli-plugin-nice-proxy](https://github.com/Tickly/vue-cli-plugin-nice-proxy) 无需重启切换代理 ip。
+
+# Vuepress-Plugin
+
+- [vuepress-plugin-code-example](https://github.com/Tickly/vuepress-plugin-code-example) 为你的示例加上【复制代码】【查看代码】的功能
 
 # Electron
 
