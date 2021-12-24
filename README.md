@@ -7,7 +7,7 @@
 
 # Vue-Component
 
-- 👀 [erpack](https://github.com/Tickly/erpack) 基于`ant-design-vue`的二次封装，方便解决一些常见需求。
+- 👀 [erpack](https://github.com/Tickly/erpack) 基于`ant-design-vue 1.x`的二次封装，方便解决一些常见需求。
 - [tg-validators](https://github.com/Tickly/tg-validators) 通用表单验证。
 - [stroke-text](https://github.com/Tickly/stroke-text) 多重文字描边组件。
 - [tg-aspect-ratio](https://github.com/Tickly/tg-aspect-ratio) 一个快速设置宽高比例的容器组件。
@@ -38,7 +38,7 @@
 
 # Chrome Extensions
 
-- [auto-download-image](https://github.com/Tickly/auto-download-image) 自动下载当前页面的图片，支持自动翻页。
+- [auto-download-image](https://github.com/Tickly/auto-download-image) 自动下载当前页面的图片，支持自动翻页。 `[Vue3]`
 - [hupu-ReplyList](https://github.com/Tickly/hupu-ReplyList) 虎扑论坛增强，可以像 app 一样查看回复
 
 # Node.js
