@@ -19,10 +19,6 @@
 
 - [vue-router-path-to-classname](https://github.com/Tickly/vue-router-path-to-classname) 根据当前页面路由自动生成一个 classname，保证唯一性的同时，省去了起名字的烦恼。
 
-# Vue-Cli-Plugin
-
-- [vue-cli-plugin-nice-proxy](https://github.com/Tickly/vue-cli-plugin-nice-proxy) 无需重启切换代理 ip。
-
 # Vuepress-Plugin
 
 - [vuepress-plugin-code-example](https://github.com/Tickly/vuepress-plugin-code-example) 为你的示例加上【复制代码】【查看代码】的功能
@@ -44,6 +40,7 @@
 # Node.js
 
 - [download-images](https://github.com/Tickly/download-images) 通过简单编程，可以自动下载网站图片，支持翻页，前提是要自己分析该网站规则。
+- [nice-proxy](https://github.com/Tickly/nice-proxy) 无需重启切换代理 ip。
 
 <!--
 **Tickly/Tickly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
