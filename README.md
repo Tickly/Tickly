@@ -4,6 +4,7 @@
 
 - [vue-i18n-generator](https://github.com/Tickly/vue-i18n-generator) 一款在线可视化编辑 vue-i18n 语言包的工具。
 - [pc-controller](https://github.com/Tickly/pc-controller) 可以在家里通过手机控制电脑播放音乐。
+- [wechat-cover-photo](https://github.com/Tickly/wechat-cover-photo) 用来制作微信封面背景图片与头像的搭配工具。
 
 # Vue-Component
 
@@ -12,8 +13,6 @@
 - [stroke-text](https://github.com/Tickly/stroke-text) 多重文字描边组件。
 - [tg-aspect-ratio](https://github.com/Tickly/tg-aspect-ratio) 一个快速设置宽高比例的容器组件。
 - [tg-formatter](https://github.com/Tickly/tg-formatter) 集合几个热门库，统一导出数据封装的方法。
-
-- [wechat-cover-photo](https://github.com/Tickly/wechat-cover-photo) 用来制作微信封面背景图片与头像的搭配工具。
 
 # Vue-Router
 
