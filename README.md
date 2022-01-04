@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Tools
+# Web-Tools
 
 - [vue-i18n-generator](https://github.com/Tickly/vue-i18n-generator) 一款在线可视化编辑 vue-i18n 语言包的工具。
 - [pc-controller](https://github.com/Tickly/pc-controller) 可以在家里通过手机控制电脑播放音乐。
@@ -17,6 +17,10 @@
 # Vue-Router
 
 - [vue-router-path-to-classname](https://github.com/Tickly/vue-router-path-to-classname) 根据当前页面路由自动生成一个 classname，保证唯一性的同时，省去了起名字的烦恼。
+
+# Vue-Cli-Plugin
+
+- [vue-cli-plugin-output-zip](https://github.com/Tickly/vue-cli-plugin-output-zip) 无需配置即可实现打包后压缩文件夹效果。
 
 # Vuepress-Plugin
 
